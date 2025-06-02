@@ -1,20 +1,21 @@
 # TicTacToe_Android
 A simple and interactive Tic Tac Toe game built using Java in Android Studio. The app supports both Single Player (vs AI) and Two Player modes on the same device. Designed for quick gameplay and minimal UI distractions, this project is ideal for learning Android fundamentals and basic game logic.
 
-🎮 Features
-🧍‍♂️ Single Player mode with basic AI
+# 🎮Features
 
-🧑‍🤝‍🧑 Two Player mode on the same device
+~🧍‍♂Single Player mode with basic AI
 
-👆 Intuitive tap-to-play interface
+~🧑‍🤝‍🧑Two Player mode on the same device
 
-🔁 Restart game anytime
+~👆Intuitive tap-to-play interface
 
-🔊 Lightweight and responsive design
+~🔁Restart game anytime
 
-🛠 Built With
-Java
+~🔊Lightweight and responsive design
 
-Android Studio
+# 🛠 Built With
+~Java
 
-XML for UI design
+~Android Studio
+
+~XML for UI design
