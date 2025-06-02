@@ -24,7 +24,7 @@ A simple and interactive Tic Tac Toe game built using Java in Android Studio. Th
 
 ~ Clone the repo
 
-~ git clone https://github.com/yourusername/tictactoe-android.git
+~ git clone
 
 ~ Open in Android Studio
 
