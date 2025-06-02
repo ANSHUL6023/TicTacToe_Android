@@ -3,7 +3,7 @@ A simple and interactive Tic Tac Toe game built using Java in Android Studio. Th
 
 # 🎮Features
 
-~🧍‍♂Single Player mode with basic AI
+~🧍‍♂Single Player mode with AI
 
 ~🧑‍🤝‍🧑Two Player mode on the same device
 
