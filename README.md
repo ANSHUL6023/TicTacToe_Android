@@ -34,6 +34,8 @@ A classic Tic-Tac-Toe (XO) game built with Android Studio (Java). This project i
 
 ~XML for UI design
 
+~Backend: Node.js + Express
+
 # 📦 How to Run
 
 ~ Clone the repo
