@@ -1,10 +1,6 @@
 # 🎮 Tic-Tac-Toe Android Game (Java + Node.js Backend)
 A classic Tic-Tac-Toe (XO) game built with Android Studio (Java). This project includes both single-player (vs AI) and two-player (local) game modes with a clean and responsive UI. The app also connects to a Node.js backend to collect device-specific information like advertising ID, device model, and OS version, helping track basic analytics or improve personalization.
 
-# 🎮ScreenShots
-![Screenshot_20250703_101712](https://github.com/user-attachments/assets/c5f8e947-1703-44b3-8c85-f2ed6d8a0b93)
-
-
 # 🎮Features
 
 ~🧍‍♂Single Player mode with AI
